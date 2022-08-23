@@ -1,0 +1,37 @@
+.MuiPaper-root {
+  background-color: #61dafb;
+}
+
+.spacer {
+  /* width: 100vw; */
+  height: 1px;
+  margin-bottom: 14vh;
+}
+
+.banner-image {
+  margin-left: 1.9vw;
+  margin-top: 3.7vw;
+}
+
+.login-form {
+  padding: 1rem 0 0 2.5rem;
+}
+
+.form-label {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-top: 20px;
+}
+
+.form-btn {
+  margin-top: 2rem;
+}
+
+.register-here {
+  width: inherit;
+  height: 10vh;
+  /* background-color: rgb(219, 182, 133); */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

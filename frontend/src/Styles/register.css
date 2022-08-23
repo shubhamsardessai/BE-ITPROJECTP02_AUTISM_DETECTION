@@ -1,0 +1,25 @@
+.header {
+  text-align: center;
+  color: #2e7d32;
+  text-decoration: underline;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.container1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.chips {
+  margin-top: 2rem;
+}
+
+.submit-btn {
+  margin-top: 2rem;
+}
